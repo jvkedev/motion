@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  background: #000;
+}
+
+.earth {
+  width: 100px;
+  height: 100px;
+  cursor: grab;
+  touch-action: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+p {
+  font-size: 20px;
+}
